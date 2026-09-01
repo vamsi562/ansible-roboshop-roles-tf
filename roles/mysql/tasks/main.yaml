@@ -18,4 +18,4 @@
     - boto3
 
 - name: set root password
-  ansible.builtin.command: mysql_secure_installation --set-root-pass RoboShop@1
+  ansible.builtin.command: mysql_secure_installation --set-root-pass {{ MYSQL_ROOT_PASSWORD }}

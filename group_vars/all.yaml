@@ -1,0 +1,9 @@
+REDIS_HOST: redis.chikoo.fun
+MONGODB_HOST: mongodb.chikoo.fun
+CATALOGUE_HOST: catalogue.chikoo.fun
+USER_HOST: user.chikoo.fun
+CART_HOST: cart.chikoo.fun
+SHIPPING_HOST: shipping.chikoo.fun
+PAYMENT_HOST: payment.chikoo.fun
+RABBITMQ_HOST: rabbitmq.chikoo.fun
+MYSQL_HOST: mysql.chikoo.fun
